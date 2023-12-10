@@ -8,11 +8,14 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-<img align="right" src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="250em">
+
+<img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="100%"></img>
+<!--
 <div align="left">
   <a href="https://github.com/GustavoMatsuo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMatsuo&theme=dark&show_icons=true"/>
+  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMatsuo&theme=dark&show_icons=true"/>
 </div>
+-->
 
 <!--
 
